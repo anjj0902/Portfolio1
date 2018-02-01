@@ -4,7 +4,7 @@ var gApp = angular.module('gApp', []);
     	$rootScope.dns = "GooDee";
     	$rootScope.title = "Portfolio";
     	$rootScope.name = "안재준";
-        $rootScope.name2 = "솔레미오 홈페이지를 방문해주셔서 감사합니다. 연신내에서 가장 맛있는 스파게티집 연신내 솔레미오입니다. 11년간 많은 사랑주셔서 감사합니다.앞으로도 많은 관심 부탁드리겠습다.";
+        $rootScope.name2 = "솔레미오 홈페이지를 방문해주셔서 감사합니다.";
        
     });
 	gApp.controller('gCtrl', function($scope) {
